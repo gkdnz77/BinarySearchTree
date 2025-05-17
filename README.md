@@ -17,10 +17,4 @@ A simple C# Windows Forms application implementing a **Binary Search Tree**.
 2. Open `BinarySearchTree.sln` with Visual Studio
 3. Run the project
 
-## Screenshots
-*(Add screenshots here if needed)*
-
----
-
-Created for learning and practicing basic data structures in C#.
 
